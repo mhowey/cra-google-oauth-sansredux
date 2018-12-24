@@ -1,3 +1,10 @@
+## About cra-google-starter-sansredux
+
+This is a standard create-react-app that contains both built-in react-router-dom and
+a non-redux integration of Google oAuth.
+
+## *** create-react-app generated below ***
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
